@@ -1,5 +1,39 @@
 # DEFAULT REPOS
 
+## Quick setup 
+
+### if you’ve done this kind of thing before
+
+```sh
+git clone https://github.com/n138-kz/${REPOSITORY_NAME}.git
+```
+
+```sh
+git clone git@github.com:n138-kz/${REPOSITORY_NAME}.git
+```
+
+### …or create a new repository on the command line
+
+```sh
+touch README.md
+git init
+git add README.md
+git commit -m init
+git branch -M main
+git remote add origin git@github.com:n138-kz/${REPOSITORY_NAME}.git
+git push -u origin main
+```
+
+### …or push an existing repository from the command line
+
+```sh
+git remote add origin git@github.com:n138-kz/${REPOSITORY_NAME}.git
+git branch -M main
+git push -u origin main
+```
+
+## Activity
+
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/n138-kz/_DEFAULTREPOS)](/../../commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/n138-kz/_DEFAULTREPOS)](/../../commits)
 [![GitHub last commit](https://img.shields.io/github/last-commit/n138-kz/_DEFAULTREPOS)](/../../commits)
