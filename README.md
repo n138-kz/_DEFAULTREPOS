@@ -58,9 +58,9 @@ git push -u origin main
 ## License
 
 [![License MIT](https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg)](LICENSE)  
-[MIT_License | wikipedia](https://ja.wikipedia.org/wiki/MIT_License)
+[Copyright (c) 2024 Yuu Komiya (n138)](LICENSE)  
 
-Copyright (c) 2024 Yuu Komiya (n138)
+[MIT_License | wikipedia](https://ja.wikipedia.org/wiki/MIT_License)
 
 [The MIT License](https://opensource.org/license/mit/)
 > [n138-kz/*](./) is licensed under the `MIT License`.  
