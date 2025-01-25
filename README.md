@@ -2,6 +2,8 @@
 
 ## Quick setup
 
+<details>
+
 ### if you’ve done this kind of thing before
 
 ```sh
@@ -49,6 +51,8 @@ git checkout {local-repos-name}
 git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 ```
 
+</details>
+
 ## Activity
 
 [![GitHub repo license](https://img.shields.io/github/license/n138-kz/_DEFAULTREPOS)](/LICENSE)
@@ -68,6 +72,8 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 ## License
 
 [Copyright (c) 2025 Yuu Komiya (n138), Under MIT License](LICENSE)  
+
+<details>
 
 [MIT_License | wikipedia](https://ja.wikipedia.org/wiki/MIT_License)
 
@@ -103,3 +109,4 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 - Liability / 発生した問題に責任を負わない
 - Warranty / 無保証
 
+</details>
