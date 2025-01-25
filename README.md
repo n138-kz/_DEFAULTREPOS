@@ -67,8 +67,10 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 
 ## License
 
-[![License MIT](https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg)](LICENSE)  
-[Copyright (c) 2024 Yuu Komiya (n138)](LICENSE)  
+[Copyright (c) 2025 Yuu Komiya (n138), Under MIT License](LICENSE)  
+<p align="center">
+  [![License MIT](https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg)](LICENSE)  
+</p>
 
 [MIT_License | wikipedia](https://ja.wikipedia.org/wiki/MIT_License)
 
