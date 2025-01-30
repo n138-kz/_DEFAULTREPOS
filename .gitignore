@@ -9,6 +9,7 @@ backup/
 
 # Secret files
 *.env
+.secret
 *.database
 *.db
 *.sqlite
