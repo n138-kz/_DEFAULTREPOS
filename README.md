@@ -72,7 +72,7 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 ## Github RestAPI
 
 ```http
-GET https://api.github.com/repos/n138-kz/sendFile2Disco
+GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
 ```
 
 ## License
