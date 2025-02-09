@@ -75,6 +75,12 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
 ```
 
+<details>
+
+  [n138-kz/_DEFAULTREPOS](https://api.github.com/repos/n138-kz/_DEFAULTREPOS) (Public repos only)
+  
+</details>
+
 ## License
 
 [Copyright (c) 2025 Yuu Komiya (n138), Under MIT License](LICENSE)  
