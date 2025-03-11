@@ -81,6 +81,10 @@ GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
   
 </details>
 
+## Refs
+
+- [![](https://www.google.com/s2/favicons?size=64&domain=https://github.com))_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS/)
+
 ## License
 
 [Copyright (c) 2025 Yuu Komiya (n138), Under MIT License](LICENSE)  
