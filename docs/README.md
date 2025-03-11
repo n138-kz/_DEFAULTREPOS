@@ -53,6 +53,10 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 
 </details>
 
+```
+DISCORD_WEBHOOK_URL
+```
+
 ## Activity
 
 [![GitHub repo license](https://img.shields.io/github/license/n138-kz/_DEFAULTREPOS)](/LICENSE)
