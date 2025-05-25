@@ -1,4 +1,4 @@
-# [DEFAULT REPOS](https://github.com/n138-kz/_DEFAULTREPOS)
+# [_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS)
 
 ## Quick setup
 
