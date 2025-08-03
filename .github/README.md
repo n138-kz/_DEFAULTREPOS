@@ -101,6 +101,12 @@ GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
 
 </div>
 
+<div align="center">
+
+  [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCOX8Iv1r0V18lbOnohE7lWQ)
+
+</div>
+
 ## Refs
 
 - [![](https://www.google.com/s2/favicons?size=64&domain=https://github.com)_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS/)
