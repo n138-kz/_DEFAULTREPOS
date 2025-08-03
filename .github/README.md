@@ -62,6 +62,18 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 DISCORD_WEBHOOK_URL
 ```
 
+## Github RestAPI
+
+```http
+GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
+```
+
+<details>
+
+  [n138-kz/_DEFAULTREPOS](https://api.github.com/repos/n138-kz/_DEFAULTREPOS) (Public repos only)
+  
+</details>
+
 ## Activity
 
 [![GitHub repo license](https://img.shields.io/github/license/n138-kz/_DEFAULTREPOS)](/LICENSE)
@@ -77,18 +89,6 @@ DISCORD_WEBHOOK_URL
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/n138-kz/_DEFAULTREPOS)](/../../pulls)
 [![GitHub language count](https://img.shields.io/github/languages/count/n138-kz/_DEFAULTREPOS)](/../../)
 [![GitHub top language](https://img.shields.io/github/languages/top/n138-kz/_DEFAULTREPOS)](/../../)
-
-## Github RestAPI
-
-```http
-GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
-```
-
-<details>
-
-  [n138-kz/_DEFAULTREPOS](https://api.github.com/repos/n138-kz/_DEFAULTREPOS) (Public repos only)
-  
-</details>
 
 ## Refs
 
