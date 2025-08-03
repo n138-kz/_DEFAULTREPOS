@@ -74,7 +74,7 @@ GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
   
 </details>
 
-## Activity
+## Repos Info
 
 <div align="center"></div>
 
