@@ -79,6 +79,10 @@ GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
 <div align="center">
 
   [![GitHub repo license](https://img.shields.io/github/license/n138-kz/_DEFAULTREPOS)](/LICENSE)
+
+</div>
+<div align="center">
+
   [![GitHub repo size](https://img.shields.io/github/repo-size/n138-kz/_DEFAULTREPOS)](/../../)
   [![GitHub repo file count](https://img.shields.io/github/directory-file-count/n138-kz/_DEFAULTREPOS)](/../../)
 
