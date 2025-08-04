@@ -1,6 +1,6 @@
 # [_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS)
 
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?locale=ja&show_owner=true&theme=graywhite&username=n138-kz&repo=_DEFAULTREPOS)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?locale=ja&show_owner=true&theme=graywhite&username=n138-kz&repo=_DEFAULTREPOS)](https://github.com/n138-kz/_DEFAULTREPOS)
 
 ## Quick setup
 
