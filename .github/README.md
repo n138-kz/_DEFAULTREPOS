@@ -102,7 +102,6 @@ GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
   [![GitHub pull requests closed](https://img.shields.io/github/issues-pr-closed/n138-kz/_DEFAULTREPOS)](/../../pulls)
 
 </div>
-
 <div align="center">
 
   [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCOX8Iv1r0V18lbOnohE7lWQ)
