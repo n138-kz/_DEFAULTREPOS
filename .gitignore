@@ -1,3 +1,6 @@
+# .gitignore generator
+# https://www.toptal.com/developers/gitignore
+
 # Backup files
 Backup/
 backup/
@@ -6,6 +9,7 @@ backup/
 # Temporary files
 *.tmp
 *.dat
+*.log
 
 # Secret files
 *.env
@@ -14,12 +18,24 @@ backup/
 *.db
 *.sqlite
 *.sqlite3
+dump.*
+*.key
+*.pem
+id_rsa
+id_ed25519
+
+# AWS, GCP, Azure, Clound Credential file
+credentials.csv
+google-service-account.json
+aws_access_key_id
 
 # Shortcut link files
 *.lnk
 *.url
 
 # Builded files
+Thumbs.db
+.DS_Store
 Build/
 build/
 *.exe
