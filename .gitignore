@@ -1,3 +1,6 @@
+# .gitignore generator
+# https://www.toptal.com/developers/gitignore
+
 # Backup files
 Backup/
 backup/
@@ -39,5 +42,3 @@ build/
 *.msi
 *.jar
 *.swp
-
-
