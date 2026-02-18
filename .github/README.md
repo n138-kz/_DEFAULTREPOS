@@ -55,7 +55,7 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 
 ## github repository initial setup
 
-1. ["Actions secrets and variables"](/settings/secrets/actions) > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
+1. ["Actions secrets and variables"](/n138-kz/_DEFAULTREPOS/settings/secrets/actions) > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
   値は Discord webhook url を設定
 
 ## Repos Info
