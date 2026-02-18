@@ -58,22 +58,6 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 1. "Actions secrets and variables" > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
   値は Discord webhook url を設定
 
-```
-DISCORD_WEBHOOK_URL
-```
-
-## Github RestAPI
-
-```http
-GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
-```
-
-<details>
-
-  [n138-kz/_DEFAULTREPOS](https://api.github.com/repos/n138-kz/_DEFAULTREPOS) (Public repos only)
-  
-</details>
-
 ## Repos Info
 
 <div align="center">
@@ -113,9 +97,7 @@ GET https://api.github.com/repos/n138-kz/_DEFAULTREPOS
 
 ## Refs
 
-<!--
 - [![](https://www.google.com/s2/favicons?size=64&domain=https://github.com)_DEFAULTREPOS](https://github.com/n138-kz/_DEFAULTREPOS/)
--->
 
 ## License
 
