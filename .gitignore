@@ -16,6 +16,10 @@ backup/
 *.sqlite
 *.sqlite3
 dump.*
+*.key
+*.pem
+id_rsa
+id_ed25519
 
 # AWS, GCP, Azure, Clound Credential file
 credentials.csv
@@ -35,4 +39,5 @@ build/
 *.msi
 *.jar
 *.swp
+
 
