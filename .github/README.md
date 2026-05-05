@@ -101,4 +101,4 @@ git branch --set-upstream-to=origin/{remote-repos-name} {local-repos-name}
 
 ## License
 
-[Copyright (c) 2025 Yuu Komiya (n138), Under MIT License](LICENSE)  
+[Copyright (c) 2026 Yuu Komiya (n138), Under MIT License](LICENSE)  
