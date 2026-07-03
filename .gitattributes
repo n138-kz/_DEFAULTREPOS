@@ -1,1 +1,7 @@
 * text=auto
+*.txt   text
+*.sh    text eol=lf
+*.bat   text eol=crlf
+*.jpg	  -text
+*.png	  -text
+*.webp  -text
